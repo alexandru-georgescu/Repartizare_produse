@@ -34,6 +34,5 @@ destroyTree:
   Elibereaza memoria fiecarui nod, element, info iar apoi a arborelui.
 
 NUME: GEORGESCU ALEXANDRU IONUT
-GRUPA: 313CD
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%FUNCTIONALITATE%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
